@@ -1,24 +1,14 @@
-# Conversor de Temperatura CLI em Go
+# Conversor de temperatura CLI em GO
 
-Projeto simples em Go que permite converter temperaturas entre Celsius, Fahrenheit e Kelvin através do terminal. Ideal para praticar conceitos básicos da linguagem, como pacotes, funções, controle de fluxo e entrada de dados.
+Projeto simples em Go que permite converter temperaturas entre Celsius, Fahrenheit e Kelvin através do terminal. Ideal para praticar conceitos básicos da linguagem, como pacotes, funções, controle de fluxo e entrada de dados
 
-## Como executar
+# Funcionalidades:
 
-No terminal, dentro da pasta do projeto, execute:
+*Conversão entre Celsius e Fahrenheit
+*Conversão entre Celsius e Kelvin
+\*Menu interativo no terminal usando bufio
 
-```bash
-go run main.go
-
-
-## Funcionalidade
-
-Conversão entre Celsius e Fahrenheit
-
-Conversão entre Celsius e Kelvin
-
-Menu interativo no terminal usando bufio
-
-## Exemplo de uso
+# Exemplo de uso:
 
 === Conversor de Temperatura ===
 1 - Celsius para Fahrenheit
@@ -29,4 +19,3 @@ Menu interativo no terminal usando bufio
 Escolha uma opção: 1
 Digite a temperatura: 25
 Resultado: 77.00 ºF
-```
